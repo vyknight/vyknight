@@ -4,7 +4,9 @@ I'm Matthew, a third year Computer Science student at the University of Toronto.
 
 I'm a fullstack software development intern at Onova, currently working on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
 
-My favourite languages are Java and Python.
+My favourite languages are Java and Python, but I also speak English, Chinese, and French. 
+
+I like gaming, reading, and urban exploration; but my favourite passtime has got to be complaining about Toronto housing costs.
 
 ---
 
