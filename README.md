@@ -10,7 +10,7 @@ I like gaming, reading, and urban exploration; but my favourite passtime has got
 
 ---
 
-**Skills and qualifications**
+**Skills and Qualifications**
 
 Javascript
 
