@@ -1,9 +1,34 @@
-### Hello there
+## Hello there
+
 I'm Matthew, a third year Computer Science student at the University of Toronto.
+
 I'm a fullstack software development intern at Onova, currently working on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
+
+My favourite languages are Java and Python.
+
 ---
-Technologies I'm familiar with:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,prisma,py,django,fastapi,flask,java,spring,supabase,postgres,linux,bash,c,gcp,git)](https://skillicons.dev)
+
+**Skills and qualifications**
+
+Javascript
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,prisma)](https://skillicons.dev)
+
+Python
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask)](https://skillicons.dev)
+
+Java
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring, )](https://skillicons.dev)
+
+Databases
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
+
+Other languages/technologies
+
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,git,gcp)](https://skillicons.dev)
 <!--
 **vyknight/vyknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
