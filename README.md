@@ -6,7 +6,7 @@ I'm a fullstack software development intern at Onova, currently working on Earth
 
 My favourite languages are Java and Python, but I also speak English, Chinese, and French. 
 
-I like gaming, reading, and urban exploration; but my favourite passtime has got to be complaining about Toronto housing costs.
+I like gaming, reading, and urban exploration; I'm currently reading "And Then There Were None" by Agatha Christie.
 
 ---
 
