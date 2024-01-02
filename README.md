@@ -2,7 +2,7 @@
 
 I'm Matthew, a software development internat at IBM and a third year Computer Science student at the University of Toronto.
 
-I was fullstack software development intern at Onova, and worked on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
+Previously I was fullstack software development intern at Onova, where I worked on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
 Additionally, I worked with UNICEF on Djenga, which is a web app helping UNICEF employees world wide assess and select digital public goods. 
 
 My favourite languages are Java and Python, but I also speak English, Chinese, and French. 
