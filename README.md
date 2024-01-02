@@ -1,12 +1,13 @@
 ## Hello there
 
-I'm Matthew, a third year Computer Science student at the University of Toronto.
+I'm Matthew, a software development internat at IBM and a third year Computer Science student at the University of Toronto.
 
-I'm a fullstack software development intern at Onova, currently working on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
+I was fullstack software development intern at Onova, and worked on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
+Additionally, I worked with UNICEF on Djenga, which is a web app helping UNICEF employees world wide assess and select digital public goods. 
 
 My favourite languages are Java and Python, but I also speak English, Chinese, and French. 
 
-I like gaming, reading, and urban exploration; I'm currently reading "And Then There Were None" by Agatha Christie.
+I like gaming, reading, and urban exploration; I'm currently reading The Kite Runner by Khaled Hosseini.
 
 ---
 
