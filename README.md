@@ -1,13 +1,10 @@
-## Hello there
+## Hello 
 
-I'm Matthew, a software development internat at IBM and a third year Computer Science student at the University of Toronto.
+I'm Matthew, a 4th year Computer Science student at the University of Toronto. Previously, I was a fullstack software development intern for IBM and Onova, and I was also a project intern for UNICEF. 
 
-Previously I was fullstack software development intern at Onova, where I worked on Earth, an all-in-one hackathon management platform and PokerGPT, an AI powered poker coach.
-Additionally, I worked with UNICEF on Djenga, which is a web app helping UNICEF employees world wide assess and select digital public goods. 
+At IBM, I mainly worked for the IBM Skills Network on our educational labs product, and spent a long time working with technologies like Docker, Kubernetes, Helm, IBMCloud, and more. At Onova, I worked on Earth, an all-in-one enterprise hackathon management platform, and PokerGPT, an AI powered poker coach. Additionally, I worked with UNICEF on Djenga, which is a web app helping UNICEF employees world wide assess and select digital public goods, which is things like open source software, datasets, AI models and so on. 
 
-My favourite languages are Java and Python, but I also speak English, Chinese, and French. 
-
-I like gaming, reading, and urban exploration; I'm currently reading The Kite Runner by Khaled Hosseini.
+I write code in JavaScript, Python, Java, and C/C++. I also speak English, Chinese, and French.
 
 ---
 
