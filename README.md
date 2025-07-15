@@ -1,10 +1,8 @@
 ## Hello 
 
-I'm Matthew, a 4th year Computer Science student at the University of Toronto. Previously, I was a fullstack software development intern for IBM and Onova, and I was also a project intern for UNICEF. 
+I'm Matthew, a 4th year Computer Science student at the University of Toronto. I currently work at Amazon, and I've had previous internships with Huawei, IBM, UNICEF, and Onova.
 
-At IBM, I mainly worked for the IBM Skills Network on our educational labs product, and spent a long time working with technologies like Docker, Kubernetes, Helm, IBMCloud, and more. At Onova, I worked on Earth, an all-in-one enterprise hackathon management platform, and PokerGPT, an AI powered poker coach. Additionally, I worked with UNICEF on Djenga, which is a web app helping UNICEF employees world wide assess and select digital public goods, which is things like open source software, datasets, AI models and so on. 
-
-I write code in JavaScript, Python, Java, and C/C++. I also speak English, Chinese, and French.
+I'm completely and utterly in love with Kotlin.
 
 ---
 
